@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">homework01</string>
+    <string name="it_is_textview">It is TextView</string>
+    <string name="ii_is_textedit">Ii is TextEdit</string>
+    <string name="it_is_button">It is Button</string>
+    <string name="it_is_switch">It is Switch</string>
+    <string name="switch_on">switch on</string>
+    <string name="switch_off">switch off</string>
+    <string name="it_is_checkbox">It is CheckBox</string>
+    <string name="it_is_togglebutton">It is ToggleButton</string>
+    <string name="toggle_on">toggle on</string>
+    <string name="toggle_off">toggle off</string>
+    <string name="type_text_text">type text = \'text\'</string>
+    <string name="type_text_textpersonname">type text = \'textPersonName\'</string>
+    <string name="type_text_phone">type text = \'phone\'</string>
+    <string name="type_text_number">type text = \'number\'</string>
+    <string name="type_text_textpassword">type text = \'textPassword\'</string>
+    <string name="type_text_textemailaddress">type text = \'textEmailAddress\'</string>
+    <string name="type_text_date">type text = \'date\'</string>
+    <string name="type_text_datetime">type text = \'datetime\'</string>
+    <string name="type_text_numberdecimal">type text = \'numberDecimal\'</string>
+    <string name="type_text_textmultiline">type text = \'textMultiLine\'</string>
+    <string name="type_text_numberdecima">type text = \'numberDecimal\'</string>
+    <string name="type_text_numbersigned">type text = \'numberSigned\'</string>
 </resources>
